@@ -1,4 +1,4 @@
-This repository contains up-to-date files downloaded by [bauh](https://github.com/vinifmor/bauh) during runtime.
+This repository contains up-to-date files downloaded by [waffles](https://github.com/iontelos/waffles) during runtime.
 
 ### Folder and files
 
