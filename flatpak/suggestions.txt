@@ -13,7 +13,7 @@
 0=com.obsproject.Studio
 0=com.skype.Client
 0=net.supertuxkart.SuperTuxKart
-0=org.libretro.RetroArch
+0=com.github.debauchee.barrier
 0=org.bunkus.mkvtoolnix-gui
 0=com.github.maoschanz.drawing
 0=org.kde.krita
